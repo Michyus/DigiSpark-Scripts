@@ -6,7 +6,7 @@
 //be faster (better, stronger...) and should work on all builds of Windows 10. For previous versions 
 //of Windows or simply older builds of Windows 10, the other version works like a charm.
 
-//Updeted by Michyus
+//Updated by Michyus
 
 #include "DigiKeyboard.h"
 void setup() {
